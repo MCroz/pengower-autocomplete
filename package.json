@@ -1,0 +1,24 @@
+{
+  "name": "pengower-autocomplete",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "Autocomplete provider for editing action script in Atom",
+  "keywords": [
+    "autocomplete",
+    "provider",
+    "boilerplate"
+  ],
+  "repository": "https://github.com/MCroz/Assembly",
+  "author": "Aljon Alacapa <aljon.alacapa@pengower.co.uk> (http://pengower.com)",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.15.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}
