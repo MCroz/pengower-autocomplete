@@ -1,5 +1,5 @@
 [
-"AddTo "
+"AddTo ",
 "AUTOGEN",
 "Cache Add",
 "Cache Clear",
@@ -42,7 +42,7 @@
 "Do Import Data",
 "Do List Attribute",
 "Do Lock Item Params Item = ",
-"Do Log Event Params",
+"Do Log Event Params Type = ___, String = ___",
 "Do Logout",
 "Do Manage Users",
 "Do New Object Params Type = ",
@@ -76,7 +76,7 @@
 "Do Write Params",
 "Do Write Line Params",
 "Get ___ Where ___",
-"Output = "
+"Output = ",
 "Return_Error",
 "Return_Ok",
 "Set",
